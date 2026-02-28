@@ -1,7 +1,7 @@
 # 📝 Mini Task Manager
 
 <p align="center">
-  <b>A Beautiful CLI Task Manager built with pure Bash</b><br>
+  <b>CLI Task Manager built with pure Bash</b><br>
   <sub>Structured • Validated • Colored • DevOps-Inspired</sub>
 </p>
 
