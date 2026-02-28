@@ -1,4 +1,4 @@
-# 📝 Mini Task Manager
+# 📝 Task Manager
 
 <p align="center">
   <b>CLI Task Manager built with pure Bash</b><br>
@@ -16,7 +16,7 @@
 
 ## ✨ Overview
 
-**Mini Task Manager** is a fully interactive command-line application written in pure Bash.
+**Task Manager** is a fully interactive command-line application written in pure Bash.
 
 It demonstrates real-world Linux scripting concepts including:
 
